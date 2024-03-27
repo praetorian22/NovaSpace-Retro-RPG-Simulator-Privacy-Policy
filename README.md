@@ -9,7 +9,7 @@ The application stores data about the gameplay locally, and does not transfer it
 Children
 
 The Service Provider does not use the App to knowingly request data from children under the age of 13 or sell it on the market.
-The application is not intended for persons under the age of 12.
+
 
 Changes
 
